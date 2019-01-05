@@ -1,0 +1,44 @@
+
+                                                
+body {
+  background: url("https://previews.123rf.com/images/docer2000/docer20001502/docer2000150200064/36951760-corazones-rojos-fondos-amor-textura-s%C3%ADmbolo-de-vacaciones.jpg") repeat-y top left, url("https://i.pinimg.com/originals/a9/7b/6b/a97b6b3d9e0530fa45e26109aaef0c8d.gif") repeat-y top right;
+  background-color: hsl(350, 100%, 90%);
+  background-size: 150px;
+  font-family: sans-serif;
+  font-size: 1.25rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+div {
+  border: black 2px solid;
+  margin: 10px 150px;
+  font-weight: bold;
+}
+
+div.s1 {
+  background: url("https://cdn.civitatis.com/islandia/reikiavik/galeria/aurora-boreal.jpg");
+  color: white;
+}
+
+div.s2 {
+  background: url("https://www.iconsdb.com/icons/preview/red/fire-2-xxl.png") no-repeat bottom right, url("https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi_3_6a-dbfAhUNmRoKHT8aAR4QjRx6BAgBEAU&url=http%3A%2F%2Fcriminal-case-official-fanfiction.wikia.com%2Fwiki%2FHellfire&psig=AOvVaw2rFehp7kbM15zjc0dHi9LK&ust=1546788191604692") no-repeat bottom left, url("https://media.mnn.com/assets/images/2017/12/smartplant.jpg.653x0_q80_crop-smart.jpg");
+  color: hsl(52, 100%, 50%);
+}
+
+div.s3 {
+  background:  url("https://i1.wp.com/rafaelmucimendoza.com/wp-content/uploads/2016/06/Aneurisma-arteriovenoso-de-la-retina-S-Wyburn-Mason.jpg?resize=768%2C549") no-repeat center, url("https://st3.depositphotos.com/1006832/15048/i/1600/depositphotos_150485398-stock-photo-hexagon-background-3d-illustration.jpg");
+  background-size: contain, auto;
+  color: hsl(0, 100%, 25%);
+}
+
+div.s4 {
+  padding-bottom: 50px;
+  background: url("https://cdn3.bigcommerce.com/s-jd2vdz6ehx/products/1464/images/6068/horse__02968.1522849746.1280.1280.jpg?c=2") repeat-x bottom, url("https://cdn.pixabay.com/photo/2016/06/05/07/59/stars-1436950_960_720.jpg") repeat;
+  background-size: 100px, auto;
+  color: hsl(125, 100%, 15%);
+}
